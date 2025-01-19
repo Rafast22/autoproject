@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 CONFIG_FILE=config.ini
 
 read_config() {
